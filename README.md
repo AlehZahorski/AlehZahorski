@@ -3,7 +3,7 @@
  I am engaged in web development. I am writing a backend for Php and a frontend for javascript. My frameworks are: laravel, vue, react. I am a fan of SOLID, I try to write code that will be easy to maintain in the future, I also understand and support the importance of tests. On this profile, github mainly projects from Udemy and YouTube courses. Private projects are hidden.
 If you have any suggestions for me or questions - write me: zahorski.001@gmail.com
 
-<h2>:male-technologist::skin-tone-2: &nbsp;Things I code with</h2>
+<h2>&nbsp;Things I code with</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
