@@ -6,6 +6,7 @@
   I'm Aleh, Full-Stack developer from <img src="https://www.u7.pl/wp-content/uploads/2018/02/pl.png" width="14px"/> <b>Warsaw,Poland</b></p>
   	
   :bulb: &nbsp;I am writing a backend for PHP and a frontend for JAVASCRIPT.
+  <br>
   :seedling:&nbsp;My frameworks are: <a style="color:#45b8d8" href="https://laravel.com/docs/8.x" target="_blank"><u>laravel</u></a>, <a style="color:#45b8d8" href="\https://v3.vuejs.org/guide/introduction.html" target="_blank"><u>Vue</u></a>, <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>react.React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>.\
   :construction: &nbsp; I am a fan of SOLID, I try to write code that will be easy to maintain in the future, I also understand and support the importance of tests. </a>.\
   :speech_balloon: &nbsp;On this profile, github mainly projects from Udemy and YouTube courses. Private projects are hidden.
