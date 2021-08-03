@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hello welcome!!, I'm Aleh</b>
 <br>
-<img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/>
+<img align="right" src="https://alehzahorski.github.io/img/developer.png" width="200"/>
 <p aligh="left">
   <p>Siema mordeczko!</br>
   I'm Aleh, Full-Stack developer from <img src="https://www.u7.pl/wp-content/uploads/2018/02/pl.png" width="14px"/> <b>Warsaw,Poland</b></p>
