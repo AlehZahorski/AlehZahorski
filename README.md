@@ -1,9 +1,8 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hello welcome!!, I'm Aleh</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Aleh</b>
 <br>
 <img align="right" src="https://alehzahorski.github.io/img/developer.png" width="200"/>
 <p aligh="left">
-  <p>Siema mordeczko!</br>
-  I'm Aleh, Full-Stack developer from <img src="https://www.u7.pl/wp-content/uploads/2018/02/pl.png" width="14px"/> <b>Warsaw,Poland</b></p>
+  <p>I'm Full-Stack developer from <img src="https://www.u7.pl/wp-content/uploads/2018/02/pl.png" width="14px"/> <b>Warsaw,Poland</b></p>
   	
   :bulb: &nbsp;I am writing a backend for PHP and a frontend for JAVASCRIPT.
   <br>
