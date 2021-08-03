@@ -12,7 +12,7 @@
   :speech_balloon: &nbsp;On this profile, github mainly projects from Udemy and YouTube courses. Private projects are hidden.
 </p>
 <br>
-<h2>:male-technologist::skin-tone-2: &nbsp;Things I code with</h2>
+<h2>&nbsp;Things I code with</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
