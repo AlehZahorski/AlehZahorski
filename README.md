@@ -2,7 +2,7 @@
 <br>
 <img align="right" src="https://alehzahorski.github.io/img/developer.png" width="200"/>
 <p aligh="left">
-  <p>I'm Full-Stack developer from <img src="https://www.u7.pl/wp-content/uploads/2018/02/pl.png" width="14px"/> <b>Warsaw,Poland</b></p>
+  <p>I'm Full-Stack developer from <b>Warsaw,Poland</b></p>
   	
   :bulb: &nbsp;I am writing a backend for PHP and a frontend for JAVASCRIPT.
   <br>
@@ -14,12 +14,9 @@
 <h2>&nbsp;Things I code with</h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-vscode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="WebStorm" src="https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
