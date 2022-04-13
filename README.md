@@ -11,6 +11,7 @@
 <br>
 <h2>&nbsp;Things I code with</h2>
 <p>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-F7DF1E?style=flat-square&logo=PHP&logoColor=black" />
   <img alt="VSCode" src="https://img.shields.io/badge/-vscode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
