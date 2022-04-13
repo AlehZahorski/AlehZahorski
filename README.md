@@ -14,9 +14,10 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-orange?style=flat-square&logo=laravel&logoColor=black" />
+  <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-F7DF1E?style=flat-square&logo=symfony&logoColor=black" />
+  <img alt="RESTapi" src="https://img.shields.io/badge/-RestAPI-F7DF1E?style=flat-square&logo=restAPI&logoColor=black" />
   <img alt="VSCode" src="https://img.shields.io/badge/-vscode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="PhpStorm" src="https://img.shields.io/badge/-PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
