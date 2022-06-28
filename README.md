@@ -1,5 +1,3 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Aleh</b>
-<br>
 <img align="right" src="https://alehzahorski.github.io/img/developer.png" width="200"/>
 <p aligh="left">
   <p>I'm PHP developer from <b>Warsaw,Poland</b></p>
