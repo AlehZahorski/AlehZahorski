@@ -1,6 +1,6 @@
 <img align="right" src="https://alehzahorski.github.io/img/developer.png" width="200"/>
 <p aligh="left">
-  <p>I'm PHP developer from <b>Warsaw,Poland</b></p>
+  <p>I'm software engineer from <b>Warsaw,Poland</b></p>
   <br>
   :seedling:&nbsp;My frameworks are: <a style="color:#45b8d8" href="https://laravel.com/docs/8.x" target="_blank"><u>laravel</u></a>,<a style="color:#45b8d8" href="https://symfony.com/" target="_blank"><u>Symfony</u></a>
   <br>:construction: &nbsp; I am a fan of SOLID, I try to write code that will be easy to maintain in the future, I also understand and support the importance of tests. 
